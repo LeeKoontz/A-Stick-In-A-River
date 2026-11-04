@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <title>A Stick In A River</title>
@@ -11,3 +12,14 @@
 <a class="title">
     A Stick In A River
   </a>
+
+<body class="home blog wp-theme-superprime">
+
+  <div id="wrap">
+  <header class="banner navbar navbar-default navbar-static-top text-center" role="banner">
+
+  <a class="title">
+    Oh, no I really don't know how to make a website...
+  </a>
+</body>
+</html>
