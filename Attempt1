@@ -5,19 +5,13 @@
   <title>A Stick In A River</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- Fontz -->
-	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7754072/710966/css/fonts.css" />
-<!-- /Fontz -->
-
 <a class="title">
     A Stick In A River
   </a>
 
-<body class="home blog wp-theme-superprime">
+</head>
 
-  <div id="wrap">
-  <header class="banner navbar navbar-default navbar-static-top text-center" role="banner">
-
+<body>
   <a class="title">
     Oh, no I really don't know how to make a website...
   </a>
